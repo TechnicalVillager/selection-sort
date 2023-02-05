@@ -1,0 +1,9 @@
+name = "selection_sort"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Saiffullah Sabir Mohamed"]
+maintainers = ["Saiffullah Sabir Mohamed <saif25596@outlook.com>"]
+maintainers-logins = ["TechnicalVillager"]
+
+executables = ["selection_sort"]
